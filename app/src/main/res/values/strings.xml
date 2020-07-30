@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Home Shopping</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sing_in">Sing In</string>
+    <string name="app_icon">App Icon</string>
 </resources>
