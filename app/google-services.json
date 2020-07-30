@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868358775472",
+    "firebase_url": "https://myhomeshopping-a4fe6.firebaseio.com",
+    "project_id": "myhomeshopping-a4fe6",
+    "storage_bucket": "myhomeshopping-a4fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868358775472:android:c6eafb6c92567d681b9175",
+        "android_client_info": {
+          "package_name": "com.oron.homeshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868358775472-ce2r0pc0fha0b048i05pau0fb2m7qgla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oron.homeshopping",
+            "certificate_hash": "2ca030f1a68d4576c58211cec60243d55a0610d7"
+          }
+        },
+        {
+          "client_id": "868358775472-2egu5qddlk0ejkjpqh1bk3cfqotb40hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCec6KqGPuMi8vwn4KcWWJF0f8P2YMJyb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868358775472-2egu5qddlk0ejkjpqh1bk3cfqotb40hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
